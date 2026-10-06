@@ -1,0 +1,24 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsh2deep/Hellonode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Arsh2deep/Hellonode/issues"
+  },
+  "homepage": "https://github.com/Arsh2deep/Hellonode#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
